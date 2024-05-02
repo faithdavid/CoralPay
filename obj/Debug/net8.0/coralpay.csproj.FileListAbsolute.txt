@@ -1,0 +1,14 @@
+B:\Coder\CoralPay\bin\Debug\net8.0\coralpay.exe
+B:\Coder\CoralPay\bin\Debug\net8.0\coralpay.deps.json
+B:\Coder\CoralPay\bin\Debug\net8.0\coralpay.runtimeconfig.json
+B:\Coder\CoralPay\bin\Debug\net8.0\coralpay.dll
+B:\Coder\CoralPay\bin\Debug\net8.0\coralpay.pdb
+B:\Coder\CoralPay\obj\Debug\net8.0\coralpay.GeneratedMSBuildEditorConfig.editorconfig
+B:\Coder\CoralPay\obj\Debug\net8.0\coralpay.AssemblyInfoInputs.cache
+B:\Coder\CoralPay\obj\Debug\net8.0\coralpay.AssemblyInfo.cs
+B:\Coder\CoralPay\obj\Debug\net8.0\coralpay.csproj.CoreCompileInputs.cache
+B:\Coder\CoralPay\obj\Debug\net8.0\coralpay.dll
+B:\Coder\CoralPay\obj\Debug\net8.0\refint\coralpay.dll
+B:\Coder\CoralPay\obj\Debug\net8.0\coralpay.pdb
+B:\Coder\CoralPay\obj\Debug\net8.0\coralpay.genruntimeconfig.cache
+B:\Coder\CoralPay\obj\Debug\net8.0\ref\coralpay.dll
